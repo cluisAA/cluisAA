@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="./clive_luis_github_banner.jpg" width="150" style="border-radius: 50%;" alt="Clive Luis"/>
-</p>
+![Clive Luis](./profile.jpg)
