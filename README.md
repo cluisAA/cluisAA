@@ -48,9 +48,8 @@ Snowflake · dbt · BigQuery · Alteryx · Python (pandas, numpy)
 
 - Microsoft PL-300 — Power BI Data Analyst (2024)
 - CompTIA Data+ (2025)
-- dbt Fundamentals (2025)
+- Predictive Analytics for PwC Middle East (Nanodegree), Udacity, March 2020	
 - Mastering DAX — SQLBI (2023)
-- Alteryx Designer Core (2020)
 - Currently pursuing: DP-600 Microsoft Fabric Analytics Engineer
 
 ---
